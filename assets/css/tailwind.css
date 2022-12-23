@@ -3564,7 +3564,7 @@ h1,  h2,  h3,  h4,  h5,  h6,  .h1,  .h2,  .h3,  .h4,  .h5,  .h6{
     flex-wrap: wrap;
     -webkit-box-pack: center;
     -ms-flex-pack: center;
-    justify-content: right;
+    justify-content: right !important;
   }
   #topnav .navigation-menu > .has-submenu:hover .menu-arrow{
     top: 33px !important;
